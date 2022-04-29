@@ -2,6 +2,7 @@ node_modules/
 .cache/
 public
 
-package-lcok.json
+package-lock.json
 # Local Netlify folder
 .netlify
+

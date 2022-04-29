@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.5.10",
-    "gatsby": "^2.19.38",
+    "gatsby": "^4.13.1",
     "gatsby-plugin-image": "^2.13.0",
     "gatsby-plugin-sharp": "^4.13.0",
     "gatsby-source-filesystem": "^4.13.0",

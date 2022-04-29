@@ -3,3 +3,5 @@ node_modules/
 public
 
 package-lcok.json
+# Local Netlify folder
+.netlify

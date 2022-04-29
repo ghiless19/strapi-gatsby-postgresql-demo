@@ -15,5 +15,6 @@ module.exports = {
         collectionTypes: [`item`],
       },
     },
+    `gatsby-plugin-netlify`,
   ],
 }

@@ -16,14 +16,18 @@
   },
   "dependencies": {
     "@apollo/client": "^3.5.10",
-    "gatsby": "^4.11.1",
-    "gatsby-plugin-image": "^2.11.1",
-    "gatsby-plugin-netlify": "^4.3.0",
-    "gatsby-plugin-sharp": "^4.11.1",
+    "gatsby": "^2.19.38",
+    "gatsby-plugin-image": "^2.13.0",
+    "gatsby-plugin-sharp": "^4.13.0",
+    "gatsby-source-filesystem": "^4.13.0",
     "gatsby-source-strapi": "^2.0.0",
-    "gatsby-transformer-sharp": "^4.11.0",
+    "gatsby-transformer-remark": "^5.13.0",
+    "gatsby-transformer-sharp": "^4.13.0",
     "graphql": "^15.8.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "gatsby-plugin-netlify": "^4.3.1"
   }
 }

@@ -14,7 +14,7 @@ const Menu = () => {
                 <div key={item.id} >
                   <div className={card}>
                     <div >
-                      <img src={"http://localhost:1337" + item.attributes.image.data.attributes.url} alt={item.attributes.name} className={photo} />
+                      <img src={item.attributes.image.data.attributes.url} alt={item.attributes.name} className={photo} />
                     </div>
 
                     <div className={containerCard}>

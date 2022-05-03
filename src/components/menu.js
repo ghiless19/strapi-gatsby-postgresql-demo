@@ -1,6 +1,6 @@
 import * as React from 'react'
 import Query from "./Query"
-import { containerCard, containerCardName, containerCardDesc, containerCardPrice, card, container, photo } from "./style.css"
+import { containerCard, containerCardName, containerCardDesc, containerCardPrice, card, container, photo } from "./layout.module.css"
 
 
 const Menu = () => {

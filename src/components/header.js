@@ -1,5 +1,5 @@
 import React from "react";
-import { restaurantPart, restaurantTitle, restaurantPhoto } from "./style.css"
+import { restaurantPart, restaurantTitle, restaurantPhoto } from "./layout.module.css"
 import restaurant from "../images/restaurant2.png"
 
 const Header = () => {
